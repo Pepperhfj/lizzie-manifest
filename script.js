@@ -1,13 +1,13 @@
 function dance() {
     let lizzieImage = document.getElementById("lizzie");
     lizzieImage.src = "https://c.tenor.com/L8GZdKkkJhwAAAAd/tenor.gif";
-    lizzieImage.style.width = "150px"; // Sets the width using JavaScript
+    lizzieImage.style.width = "150px"; // <3
 }
 
 function stop() {
     let diedude = document.getElementById("lizzie");
     diedude.src = "https://mc-heads.net/body/751b090e-012e-4847-974e-a666cfc2603d/512"
-    diedude.style.width = "80px";
+    diedude.style.width = "80px"; // <3
 }
 
 
