@@ -8,7 +8,6 @@ function showPage() { // \(^o^)/ !!
 }
   }
 
-
 function dance() {
     let lizzieImage = document.getElementById("lizzie");
     lizzieImage.src = "https://c.tenor.com/L8GZdKkkJhwAAAAd/tenor.gif";
