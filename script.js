@@ -1,7 +1,7 @@
 function showPage() { // \(^o^)/ !!
   var page1 = document.getElementById("page1");
   
-  if (page1.style.display = "none") { 
+  if (page1.style.display === "none") { 
     page1.style.display = "block";
   } else {
   page1.style.display = "none";
