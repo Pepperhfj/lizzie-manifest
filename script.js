@@ -1,4 +1,4 @@
-function showPage() {
+function showPage() { // \(^o^)/ !!
   var page1 = document.getElementById("page1");
   
   if (page1.style.display = "none") { 
