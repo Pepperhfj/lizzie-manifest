@@ -15,9 +15,9 @@ function dance() {
 }
 
 function stop() {
-    let diedude = document.getElementById("lizzie");
-    diedude.src = "https://mc-heads.net/body/751b090e-012e-4847-974e-a666cfc2603d/512"
-    diedude.style.width = "80px"; // <3
+    let dieDude = document.getElementById("lizzie");
+    dieDude.src = "https://mc-heads.net/body/751b090e-012e-4847-974e-a666cfc2603d/512"
+    dieDude.style.width = "80px"; // <3
 }
 
 
