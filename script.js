@@ -7,7 +7,7 @@ function showPage() { // \(^o^)/ !!
     // If page1 is hidden, the site will show page1 if the button is clicked (>3<) !!
     page1.style.display = "block";
   } else {
-    // Otherwise, page1 won't be visible.
+    // Otherwise, page1 won't be visible (T_T) . . .
   page1.style.display = "none";
 }
   }
